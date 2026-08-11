@@ -1,0 +1,42 @@
+{
+  "name": "metromeet-ai",
+  "version": "6.0.0",
+  "description": "A fairness-first meetup planner for the Bangalore Namma Metro — finds the station where no one has to travel unfairly far, with a context-aware AI assistant, live nearby-places data, and a schematic metro map renderer.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "author": "MetroMeet AI Contributors",
+  "homepage": "https://github.com/<your-username>/metromeet-ai#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<your-username>/metromeet-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/<your-username>/metromeet-ai/issues"
+  },
+  "keywords": [
+    "namma-metro",
+    "bangalore",
+    "bmrcl",
+    "dijkstra",
+    "graph-algorithms",
+    "meetup-planner",
+    "route-planner",
+    "vanilla-js",
+    "es-modules",
+    "canvas"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "serve -l 3000 .",
+    "build": "node scripts/build.js",
+    "start": "serve -l 3000 dist",
+    "test": "node scripts/verify.js",
+    "verify": "node scripts/verify.js"
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
