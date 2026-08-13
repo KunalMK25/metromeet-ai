@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Project banner placeholder — replace with a real banner image, e.g. docs/screenshots/banner.png -->
-<img src="docs/screenshots/home.png" alt="MetroMeet AI banner placeholder" width="720"/>
+
 
 # 🚇 MetroMeet AI
 
