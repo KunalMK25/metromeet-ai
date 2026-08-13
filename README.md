@@ -16,7 +16,6 @@ schematic map, a context-aware AI assistant, and real nearby-hangout data.
 [![Deploy with Vercel](https://img.shields.io/badge/deploy-vercel-black?logo=vercel)](https://vercel.com/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[Live Demo](#) · [Documentation](docs/architecture.md) · [Report a Bug](../../issues/new?template=bug_report.md) · [Request a Feature](../../issues/new?template=feature_request.md)
 
 </div>
 
@@ -69,26 +68,6 @@ script.
 - 🚩 **Feature flags** for AI, live places, render caching, diagnostics, and
   the performance overlay — independently toggleable, no code changes needed
 
-## Screenshots
-
-| Home | Map |
-|---|---|
-| ![Home screen](docs/screenshots/home.png) | ![Schematic map](docs/screenshots/map.png) |
-
-| Routes | AI Chat |
-|---|---|
-| ![Route breakdown](docs/screenshots/routes.png) | ![AI assistant](docs/screenshots/chat.png) |
-
-| Diagnostics |
-|---|
-| ![Diagnostics report](docs/screenshots/diagnostics.png) |
-
-> Screenshots above are placeholders generated for this repository — swap in
-> real captures from `npm run dev` before publishing. See
-> [`docs/screenshots/`](docs/screenshots/).
-
-<!-- Demo GIF placeholder -->
-<!-- ![Demo](docs/screenshots/demo.gif) -->
 
 ## Architecture
 
